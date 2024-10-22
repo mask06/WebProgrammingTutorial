@@ -57,7 +57,7 @@ for (let index = 1; index <= adet; index++) {
     console.log(index+"- x değeriniz.");
 } */
 
-var adet = prompt("kaç adet t-shirt istiyorsunuz", "0");
+/* var adet = prompt("kaç adet t-shirt istiyorsunuz", "0");
 for (let index = 1; index <= adet; index++) {
     var tshirt = prompt(index + " renk seç")
 
@@ -73,4 +73,4 @@ for (let index = 1; index <= adet; index++) {
     else if (tshirt == "kirmizi") {
         console.log("kırımızı");
     }
-}
+} */
